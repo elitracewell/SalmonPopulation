@@ -6,6 +6,16 @@ README.md
 ## Description
 The aim of our project is to explore and visualize the trends and factors impacting the salmon population on the West Coast. We aim to investigate relationships between population changes over time, locations with higher or lower population densities, the impact of environmental factors like water temperature or pollution, and other related correlations that may emerge from the data.
 
+For 150 years, hatcheries have been the solution. Hatcheries are incubation tanks for salmon, but genetically they are not the same as the wild species. Hatchery fish are stronger, bigger, and some ecologists argue they are hurting the active wild salmon popualtion.
+
+## What is the goal?
+
+Adress the major issue: How have hatcheries changed the genetic makeup of the five most populate salmon species?
+
+## What did we find?
+
+The genetic makeup of Chinook salmon has been surpassed by hatchery fish. The effects of an evolving genetic population has unintended consequences. 
+
 For this project, we were required to create visualizations with a Python Flask-powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). User-driven interaction will be a key feature of our visualization, with interactive elements such as dropdowns to select a specific species or year, and textboxes for searching specific locations. Our final visualization will ideally present at least three different views of the data, such as temporal trends, geographical distribution, and environmental correlations.
 
 We will ensure the data story is clear, visually appealing, and easy to understand for users of all levels. The final page will be designed to run without errors, providing a seamless experience for the end user.
