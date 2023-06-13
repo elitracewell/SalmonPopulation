@@ -4,7 +4,7 @@ README.md
 # Exploration of the Salmon Population Through the Years:
 
 ## Description
-The aim of our project is to explore and visualize the trends and factors impacting the salmon population on the West Coast. We aim to investigate relationships between population changes over time, locations with higher or lower population densities, the impact of environmental factors like water temperature or pollution, and other related correlations that may emerge from the data.
+The aim of our project is to explore and visualize the trends and factors impacting the salmon population on the West Coast. We aim to investigate relationships between population changes over time, particularly in reference to the genetically modified hatchery fish, and other related correlations that may emerge from the data.
 
 For 150 years, hatcheries have been the solution. Hatcheries are incubation tanks for salmon, but genetically they are not the same as the wild species. Hatchery fish are stronger, bigger, and some ecologists argue they are hurting the active wild salmon popualtion.
 
